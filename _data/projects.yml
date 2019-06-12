@@ -1,16 +1,14 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Design and Implementation of IoT-based Multimedia Assets Management System
+  role: Master of Electronic Engineering
+  duration: Jun. 2018
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: |
+    (Some information about this thesis is undisclosed due to in-progress patent application.)
+    <ol>
+      <li>Designed and implemented a multimedia assets management system, which aims to cope with the problem of labor intensity in traditional systems.</li>
+      <li>Built the web-based interface with Bootstrap, jQuery, and modern RWD designs.</li>
+      <li>Backed with PHP slim framwork and MySQL database system.</li>
+      <li>Assembled a trolley with a on-top Raspberry Pi 3, implementing MQTT signaling, RFID positioning, infrared detection, and barcode recognition.</li>
+      <li>Implemented ant-colony-optimization algorithm for a best-route calculating function.</li>
+    </ol>

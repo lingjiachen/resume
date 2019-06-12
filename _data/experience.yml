@@ -1,19 +1,49 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: ESO Automation Co., Ltd.
+  position: System Engineer
+  duration: Jul. 2014 &mdash; Now
+  summary: |
+    <ol>
+      <li><strong>Project Leading</strong>
+        <ul>
+          <li>Managing installation, coordination and maintenance of project, "Campus Power Monitor System."</li>
+          <li>Maintained 850+ and constantly increasing power monitors and terminal equipments, providing with data inquiry of 10+ years.</li>
+          <li>Well established business relationship with customers.</li>
+          <li>Increased 10% of contract sum in 5 years.</li>
+        </ul>
+      </li>
+      <li><strong>System Engineering</strong>
+        <ul>
+          <li>Developed and maintained web user interface of power monitoring systems.</li>
+          <li>Provided with different views of query results for different purposes via various search criterias.</li>
+          <li>Implemented functionalities of creating and exporting forms as spreadsheets.</li>
+        </ul>
+      </li>
+      <li><strong>Performance Tuning</strong>
+        <ul>
+          <li>Trained on Java and databases out of self-motivation.</li>
+          <li>Optimized SQL queries and improved the efficiency of querying large amounts of data.</li>
+        </ul>
+      </li>
+      <li><strong>Service Maintenance</strong>
+        <ul>
+          <li>Proactively maintained information systems, servers, network systems, databases, etc.</li>
+          <li>Kept the systems running efficiently and reliably.</li>
+          <li>Provided with technical consulting services.</li>
+        </ul>
+      </li>
+    </ol>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: CMC Magnetics
+  position: Factory Assistant (Intern)
+  duration: Jul. 2013  &mdash; Sep. 2013
+  summary: |
+    <ol>
+      <li>Repaired failed optical disk drives.</li>
+      <li>Regularly checked and inspected online optical disk drives.</li>
+      <li>Regularly stocktook TEFE, computers, spare parts of test optical disk drives.</li>
+      <li>Regularly maintained and cleaned optical disk drives.</li>
+      <li>Calibrated TEFE electrical-property-failed drives.</li>
+      <li>Maintained and troubleshot of TEFE equipments.</li>
+      <li>Operated TEFE equipments setup and cleaning.</li>
+    </ol>
